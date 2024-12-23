@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.biweekly145;
 
 import java.util.TreeSet;
 
