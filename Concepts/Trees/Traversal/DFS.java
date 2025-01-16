@@ -1,4 +1,6 @@
-package Concepts.Trees;
+package Concepts.Trees.Traversal;
+
+import Concepts.Trees.Node;
 
 public class DFS {
     public static void PreorderTraversal(Node node){

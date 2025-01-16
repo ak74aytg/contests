@@ -1,4 +1,6 @@
-package Concepts.Trees;
+package Concepts.Trees.Traversal;
+
+import Concepts.Trees.Node;
 
 import java.util.LinkedList;
 import java.util.Queue;
