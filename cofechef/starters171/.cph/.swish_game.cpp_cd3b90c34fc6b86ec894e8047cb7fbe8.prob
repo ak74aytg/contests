@@ -1,0 +1,1 @@
+{"name":"Local: swish_game","url":"/Users/akshay/IdeaProjects/java programming/cofechef/starters171/swish_game.cpp","tests":[{"id":1738162935754,"input":"2\n3 4\nSPP\n3 1\nPSS","output":"5\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/akshay/IdeaProjects/java programming/cofechef/starters171/swish_game.cpp","group":"local","local":true}
